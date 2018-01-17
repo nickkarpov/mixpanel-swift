@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E115947C1CFF1491007F8B4F"
-               BuildableName = "Mixpanel.framework"
-               BlueprintName = "Mixpanel"
+               BuildableName = "MixpanelSwift.framework"
+               BlueprintName = "MixpanelSwift"
                ReferencedContainer = "container:Mixpanel.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E115947C1CFF1491007F8B4F"
-            BuildableName = "Mixpanel.framework"
-            BlueprintName = "Mixpanel"
+            BuildableName = "MixpanelSwift.framework"
+            BlueprintName = "MixpanelSwift"
             ReferencedContainer = "container:Mixpanel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E115947C1CFF1491007F8B4F"
-            BuildableName = "Mixpanel.framework"
-            BlueprintName = "Mixpanel"
+            BuildableName = "MixpanelSwift.framework"
+            BlueprintName = "MixpanelSwift"
             ReferencedContainer = "container:Mixpanel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
